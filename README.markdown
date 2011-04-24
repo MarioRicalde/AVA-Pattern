@@ -36,7 +36,7 @@ Think of the following use cases:
 - As a member of a Development Team
   - You're part of a team that has another front-end Engineer besides you; everything is fine and dandy till he begins naming files under a completely different directory than the one you set; after some time you can notice who made what just by how it's stored.
 - As a Team Leader
-  - You can instil some sort of structure for assets when working on multiple projects. This will allow assignment of team members to different projects, as needed, without having to worry about a team member learning a wildly different asset structure.
+  - You can instill some sort of structure for assets when working on multiple projects. This will allow assignment of team members to different projects, as needed, without having to worry about a team member learning a wildly different asset structure.
 - As an Outsourcer
   - Having different developers coming in and out of working on a code base can create much confusion when it comes to the way that assets are handled. The AVA pattern will give a common way for different developers to save assets, and give you, the outsourcer, that much more control over your code.  
 ## Overview of the Structure.
