@@ -11,33 +11,34 @@
 <a name="introduction"></a>
 ## Introduction to the AVA Pattern
 
-In the recent years, we’ve been seeing a lot of improvements on the organization procedures for web applications. More specifically, the MVC Pattern; which greatly improved development speeds by imposing a well structured architecture. This allowed developers to feel at home with any application that uses the pattern.
+In the recent years, we’ve been seeing a lot of improvements on the organizational procedures for web applications. More specifically, the MVC Pattern, which greatly improved development speeds by imposing a well structured architecture. This allowed developers to feel at home with any application that uses the pattern. 
 
 The Model-View-Controller (MVC) Pattern is oriented to the back-end. There’s a specification about where to store your interface related code, the View, but there’s no real specification regarding how and where you should store your assets. This is where the Arrangement for View Assets (AVA) Pattern shines.
 
 The AVA Pattern works side by side with the MVC Pattern. Both are framework and language agnostic, and independent of each other, but together you can achieve a better organization which will improve productivity, especially during advanced stages of the application.
 
-Take these with a grain of salt and remember that you should always use what your team is accustomed to; these conventions may be modified to fit your project, however, try to follow the general idea about the structure.
+Take this with a grain of salt and remember that you should always use what your team is accustomed to; these conventions may be modified to fit your project, however, try to follow the general idea about the structure.
 
 For instance, you may want use snake_case over the dash-case naming pattern; these types of modifications are a matter of preference. 
 
 ### Why do we need the AVA Pattern?
 
-You may think that there's a steep learning curve involved with the AVA Pattern; however this is not true. The main objective of the AVA Pattern is to provide a written docuentation for you and your team to consult when in doubt about how to store your assets.
+You may think that there's a steep learning curve involved with the AVA Pattern however, this is not the case. The main objective of the AVA Pattern is to provide written docuentation for you, and your team, to consult when in doubt about how to store your assets.
 
 ### What do I get from the AVA Pattern, besides consistency?
 
-The main plus you'll get from the AVA Pattern is consitency. And that alone is something that is worth your time. Consistency is not something you should only want to achieve when you're working on a team with other Developers working on the Front-End but it's something you should aim for for your own sake.
+The main plus you'll get from the AVA Pattern is consitency. And, that alone is something that is worth your time. Consistency is not something you should only want to achieve when you're working on a team, but it's something you should aim for, for your own sake.
 
 Think of the following use cases:
 
 - As a Freelancer
-  - The odds are that you're going to work alone on the project. You complete the project and months later you need to give maintenance to the project; and you completely forgot about the file structure and file names of the project. You'll spend some time trying to figure out your own code.
+  - The odds are that you're going to work alone on a project. You complete the project and months later you might need to get back in and support or change something and you completely forgot about the file structure and file names of the project. You'll spend some time trying to figure out your own code.
 - As a member of a Development Team
   - You're part of a team that has another front-end Engineer besides you; everything is fine and dandy till he begins naming files under a completely different directory than the one you set; after some time you can notice who made what just by how it's stored.
 - As a Team Leader
+  - You can instil some sort of structure for assets when working on multiple projects. This will allow assignment of team members to different projects, as needed, without having to worry about a team member learning a wildly different asset structure.
 - As an Outsourcer
-
+  - Having different developers coming in and out of working on a code base can create much confusion when it comes to the way that assets are handled. The AVA pattern will give a common way for different developers to save assets, and give you, the outsourcer, that much more control over your code.  
 ## Overview of the Structure.
 
 Need to write some stuff here..
