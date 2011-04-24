@@ -32,13 +32,13 @@ The main plus you'll get from the AVA Pattern is consitency. And, that alone is 
 Think of the following use cases:
 
 - As a Freelancer
-  - The odds are that you're going to work alone on a project. You complete the project and months later you might need to get back in and support or change something and you completely forgot about the file structure and file names of the project. You'll spend some time trying to figure out your own code.
+  - The odds are that you're going to work alone on a project. You complete the project and months later you might need to get back in and support or change something. Chances are you completely forgot about the file structure and file names of the project. You'll spend some time trying to figure out your own code.
 - As a member of a Development Team
-  - You're part of a team that has another front-end Engineer besides you; everything is fine and dandy till he begins naming files under a completely different directory than the one you set; after some time you can notice who made what just by how it's stored.
+  - You're part of a team that has another front-end Engineer besides you. Everything is fine and dandy till he begins naming files under a completely different directory than the one you set. After some time you can notice who made what just by how it's stored.
 - As a Team Leader
   - You can instill some sort of structure for assets when working on multiple projects. This will allow assignment of team members to different projects, as needed, without having to worry about a team member learning a wildly different asset structure.
 - As an Outsourcer
-  - Having different developers coming in and out of working on a code base can create much confusion when it comes to the way that assets are handled. The AVA pattern will give a common way for different developers to save assets, and give you, the outsourcer, that much more control over your code.  
+  - Having different developers coming in and working on a code base on a contracted basis can create much confusion when it comes to the way that assets are handled. The AVA pattern will give a common way for different developers to save assets, and give you, the outsourcer, that much more control over your code.  
 ## Overview of the Structure.
 
 Need to write some stuff here..
