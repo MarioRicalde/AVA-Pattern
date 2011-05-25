@@ -1,3 +1,4 @@
+
 # Arrangement for View Assets Pattern
 
 - [Introduction to the AVA Pattern](#introduction)
@@ -43,11 +44,11 @@ Think of the following use cases:
 
 Need to write some stuff here..
 
-    /css/                         # Documented? Soon.
+    /stylesheets/                 # Documented? Soon.
       style.css
       handheld.css
     /img/                         # Documented? ✓
-    /js/                          # Documented? Soon.
+    /scripts/                     # Documented? (javascripts == bad, because we use coffee)
       tests/
         qunit/
         index.html
@@ -137,6 +138,6 @@ Need to document this further.
       
 #### Thanks to:
 
-- [Armando Canals](http://twitter.com/armandocanals) for his feedback.
-- [Cesar Salazar](http://twitter.com/cesarsalazar) for his feedback.
-- [Chris Eppstein](http://twitter.com/chriseppstein) for his feedback.
+- [Paul Irish](http://paulirish.com/)
+- [Chris Eppstein](http://twitter.com/chriseppstein)
+- [Armando Canals](http://twitter.com/armandocanals)
