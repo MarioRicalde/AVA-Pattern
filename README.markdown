@@ -1,4 +1,3 @@
-
 # Arrangement for View Assets Pattern
 
 - [Introduction to the AVA Pattern](#introduction)
@@ -47,7 +46,7 @@ Need to write some stuff here..
     /stylesheets/                 # Documented? Soon.
       style.css
       handheld.css
-    /img/                         # Documented? ✓
+    /images/                         # Documented? ✓
     /scripts/                     # Documented? (javascripts == bad, because we use coffee)
       tests/
         qunit/
@@ -62,7 +61,7 @@ Need to write some stuff here..
       script.js
 
 <a name="images"></a>
-## /img/ Directory Convention
+## /images/ Directory Convention
 
 Conventions save you from having to figure out how the project is structured. The following conventions are the result of testing and polishing rules on production environment over the years.
 
