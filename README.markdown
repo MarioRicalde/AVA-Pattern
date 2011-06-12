@@ -7,6 +7,8 @@
   - [Grouping Rules](#images/grouping-rules)
   - [Naming Rules](#images/naming-rules)
   - [Examples](#images/examples)
+- [/javascripts/ Directory Convention](#javascripts)
+
 
 <a name="introduction"></a>
 ## Introduction to the AVA Pattern
@@ -133,8 +135,8 @@ Need to document this further.
       user-display-200x.jpg
       video-medium.jpg
       
-      
-## /javascripts/ Directory Conventions
+<a name="javascripts"></a> 
+## /javascripts/ Directory Convention
 
 Previously /scripts/ - scripts was thought too general.
 
@@ -142,7 +144,7 @@ Previously /scripts/ - scripts was thought too general.
 * It maches rails conventions.
 * It's better than `js`.
 
-#### Thanks to:
+## Thanks to:
 
 - [Paul Irish](http://paulirish.com/)
 - [Chris Eppstein](http://twitter.com/chriseppstein)
