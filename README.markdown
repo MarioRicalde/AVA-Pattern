@@ -47,7 +47,7 @@ Need to write some stuff here..
       style.css
       handheld.css
     /images/                         # Documented? ✓
-    /scripts/                     # Documented? (javascripts == bad, because we use coffee)
+    /javascripts/                     # Documented? (needs more examples)
       tests/
         qunit/
         index.html
@@ -134,7 +134,14 @@ Need to document this further.
       video-medium.jpg
       
       
-      
+## /javascripts/ Directory Conventions
+
+Previously /scripts/ - scripts was thought too general.
+
+* DHH voted for javascripts.
+* It maches rails conventions.
+* It's better than `js`.
+
 #### Thanks to:
 
 - [Paul Irish](http://paulirish.com/)
