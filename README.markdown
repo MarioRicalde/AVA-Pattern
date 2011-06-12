@@ -41,6 +41,7 @@ Think of the following use cases:
   - You can instill some sort of structure for assets when working on multiple projects. This will allow assignment of team members to different projects, as needed, without having to worry about a team member learning a wildly different asset structure.
 - As an Outsourcer
   - Having different developers coming in and working on a code base on a contracted basis can create much confusion when it comes to the way that assets are handled. The AVA pattern will give a common way for different developers to save assets, and give you, the outsourcer, that much more control over your code.  
+
 ## Overview of the Structure.
 
 Need to write some stuff here..
