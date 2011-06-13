@@ -105,7 +105,7 @@ This whole plural/singular paradigm is to follow web frameworks and database nam
 
 When the file is going to have several variants, it's a good practice to append the change in type or dimension using the following pattern.
 
-    (name)((-HEIGHTx)(WIDTH)?)?
+    (name)((-WIDTHx)(HEIGHT)?)?
 
 Please note 
 
@@ -145,8 +145,12 @@ Previously /scripts/ - scripts was thought too general.
 * It maches rails conventions.
 * It's better than `js`.
 
-## Thanks to:
+## Credits
 
+Original Paper and Idea by Mario "Kuroir" Ricalde. With the help of many people including:
+
+- [David Heinemeier Hansson](http://www.loudthinking.com/)
 - [Paul Irish](http://paulirish.com/)
 - [Chris Eppstein](http://twitter.com/chriseppstein)
 - [Armando Canals](http://twitter.com/armandocanals)
+- [Daniel Fischer](http://www.danielfischer.com/)
