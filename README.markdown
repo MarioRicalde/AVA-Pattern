@@ -1,3 +1,8 @@
+# README
+
+This document is not yet complete. It's a draft and it's under heavy development. To help, please go into [Issues](https://github.com/kuroir/AVA-Pattern/issues) and take part into the open available issues. Your opinions are really useful!
+
+
 # Arrangement for View Assets Pattern
 
 - [Introduction to the AVA Pattern](#introduction)
