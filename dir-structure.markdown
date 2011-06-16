@@ -5,7 +5,7 @@
         jquery-ui/                    # Has custom dir and partials.
           ...
 
-      app/                           
+      app/                          # Directory name reflecting the "master" file. (mobile, iphone, ie, w/e)
         _forums.scss                # General idea of the dir, includes partials inside current_dir.
         _posts.scss                 # General idea of the dir, includes partials inside current_dir.
         _comments.scss              # General idea of the dir, includes partials inside current_dir.
