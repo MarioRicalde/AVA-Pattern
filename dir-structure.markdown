@@ -10,12 +10,17 @@
         _posts.scss                 # General idea of the dir, includes partials inside current_dir.
         _comments.scss              # General idea of the dir, includes partials inside current_dir.
         forums/                      
-          _thread.scss                
-          _thread-listing.scss        
+          _show.scss                # Naming that represents what goes in these file.    
+          _new.scss                 # Naming that represents what goes in these file.    
+          _edit.scss                # Naming that represents what goes in these file.    
         posts/                        
-          _posts-listing.scss         
+          _show.scss                # Naming that represents what goes in these file.    
+          _new.scss                 # Naming that represents what goes in these file.    
+          _edit.scss                # Naming that represents what goes in these file.    
         comments/                     
-          _comment-listing.scss       
+          _show.scss                # Naming that represents what goes in these file.    
+          _new.scss                 # Naming that represents what goes in these file.    
+          _edit.scss                # Naming that represents what goes in these file.     
         shared/                       
           _headers.scss               
           _footers.scss               
@@ -25,13 +30,18 @@
         _forums.scss                # General idea of the dir, includes partials inside current_dir.
         _posts.scss                 # General idea of the dir, includes partials inside current_dir.
         _comments.scss              # General idea of the dir, includes partials inside current_dir.            
-        forums/                       
-          _thread.scss                
-          _thread-listing.scss        
+        forums/                      
+          _show.scss                # Naming that represents what goes in these file.    
+          _new.scss                 # Naming that represents what goes in these file.    
+          _edit.scss                # Naming that represents what goes in these file.    
         posts/                        
-          _post-listing.scss          
+          _show.scss                # Naming that represents what goes in these file.    
+          _new.scss                 # Naming that represents what goes in these file.    
+          _edit.scss                # Naming that represents what goes in these file.    
         comments/                     
-          _comment-listing.scss       
+          _show.scss                # Naming that represents what goes in these file.    
+          _new.scss                 # Naming that represents what goes in these file.    
+          _edit.scss                # Naming that represents what goes in these file.     
         shared/                      
           _headers.scss              
           _footers.scss              
