@@ -6,32 +6,32 @@
           ...
 
       app/                           
+        _forums.scss                # General idea of the dir, includes partials inside current_dir.
+        _posts.scss                 # General idea of the dir, includes partials inside current_dir.
+        _comments.scss              # General idea of the dir, includes partials inside current_dir.
         forums/                      
-          _forums.scss                # General idea of the dir, includes partials inside current_dir.
           _thread.scss                
           _thread-listing.scss        
         posts/                        
           _posts-listing.scss         
-          _posts.scss                 # General idea of the dir, includes partials inside current_dir.
         comments/                     
           _comment-listing.scss       
-          _comments.scss              # General idea of the dir, includes partials inside current_dir.
         shared/                       
           _headers.scss               
           _footers.scss               
           _content.scss               
           _sidebar.scss               
-      mobile/                         
+      mobile/             
+        _forums.scss                # General idea of the dir, includes partials inside current_dir.
+        _posts.scss                 # General idea of the dir, includes partials inside current_dir.
+        _comments.scss              # General idea of the dir, includes partials inside current_dir.            
         forums/                       
-          _forums.scss                # General idea of the dir, includes partials inside current_dir.
           _thread.scss                
           _thread-listing.scss        
         posts/                        
           _post-listing.scss          
-          _posts.scss                 # General idea of the dir, includes partials inside current_dir.
         comments/                     
           _comment-listing.scss       
-          _comments.scss              # General idea of the dir, includes partials inside current_dir.
         shared/                      
           _headers.scss              
           _footers.scss              
