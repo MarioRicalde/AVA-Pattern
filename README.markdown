@@ -7,6 +7,8 @@
   - [Grouping Rules](#images/grouping-rules)
   - [Naming Rules](#images/naming-rules)
   - [Examples](#images/examples)
+- [/javascripts/ Directory Convention](#javascripts)
+
 
 <a name="introduction"></a>
 ## Introduction to the AVA Pattern
@@ -39,6 +41,7 @@ Think of the following use cases:
   - You can instill some sort of structure for assets when working on multiple projects. This will allow assignment of team members to different projects, as needed, without having to worry about a team member learning a wildly different asset structure.
 - As an Outsourcer
   - Having different developers coming in and working on a code base on a contracted basis can create much confusion when it comes to the way that assets are handled. The AVA pattern will give a common way for different developers to save assets, and give you, the outsourcer, that much more control over your code.  
+
 ## Overview of the Structure.
 
 Need to write some stuff here..
@@ -47,7 +50,7 @@ Need to write some stuff here..
       style.css
       handheld.css
     /images/                         # Documented? ✓
-    /scripts/                     # Documented? (javascripts == bad, because we use coffee)
+    /javascripts/                     # Documented? (needs more examples)
       tests/
         qunit/
         index.html
@@ -102,7 +105,7 @@ This whole plural/singular paradigm is to follow web frameworks and database nam
 
 When the file is going to have several variants, it's a good practice to append the change in type or dimension using the following pattern.
 
-    (name)((-HEIGHTx)(WIDTH)?)?
+    (name)((-WIDTHx)(HEIGHT)?)?
 
 Please note 
 
@@ -133,10 +136,21 @@ Need to document this further.
       user-display-200x.jpg
       video-medium.jpg
       
-      
-      
-#### Thanks to:
+<a name="javascripts"></a> 
+## /javascripts/ Directory Convention
 
+Previously /scripts/ - scripts was thought too general.
+
+* DHH voted for javascripts.
+* It maches rails conventions.
+* It's better than `js`.
+
+## Credits
+
+Original Paper and Idea by Mario "Kuroir" Ricalde. With the help of many people including:
+
+- [David Heinemeier Hansson](http://www.loudthinking.com/)
 - [Paul Irish](http://paulirish.com/)
 - [Chris Eppstein](http://twitter.com/chriseppstein)
 - [Armando Canals](http://twitter.com/armandocanals)
+- [Daniel Fischer](http://www.danielfischer.com/)
