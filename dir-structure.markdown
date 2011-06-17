@@ -30,8 +30,7 @@
         shared/                       
           _headers.scss               
           _footers.scss               
-          _content.scss               
-          _sidebar.scss               
+          _contents.scss               
       mobile/                        # Type
         _forums.scss                 # Include files, define resource variables and global classes (for @extension)
         _posts.scss                  # Include files, define resource variables and global classes (for @extension)
@@ -54,8 +53,7 @@
         shared/                      
           _headers.scss              
           _footers.scss              
-          _content.scss              
-          _sidebar.scss              
+          _contents.scss              
                                   
       mobile.scss                     # Include files, define resource variables and global classes (for @extension)
       app.scss                        # Include files, define resource variables and global classes (for @extension)
