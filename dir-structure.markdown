@@ -24,6 +24,9 @@
           _show.scss                
           _new.scss                 
           _edit.scss                
+        layouts/                     # DISCUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+          _application.scss          # Default rails name.
+          _forums.scss
         shared/                       
           _headers.scss               
           _footers.scss               
