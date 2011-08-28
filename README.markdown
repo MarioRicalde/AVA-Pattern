@@ -30,7 +30,7 @@ For instance, you may want use snake_case over the dash-case naming pattern; the
 
 ### Why do we need the AVA Pattern?
 
-You may think that there's a steep learning curve involved with the AVA Pattern however, this is not the case. The main objective of the AVA Pattern is to provide written docuentation for you, and your team, to consult when in doubt about how to store your assets.
+You may think that there's a steep learning curve involved with the AVA Pattern however, this is not the case. The main objective of the AVA Pattern is to provide written documentation for you, and your team, to consult when in doubt about how to store your assets.
 
 ### What do I get from the AVA Pattern, besides consistency?
 
