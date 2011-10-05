@@ -128,7 +128,8 @@ Notice that you're not forced to add the height when there's no variation to tha
 ### Examples
 
 Need to document this further.
-  
+
+    /bg-body.jpg
     /bg-content.jpg
     /bg-content-light.jpg
     /sp-main.jpg
