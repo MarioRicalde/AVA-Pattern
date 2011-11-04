@@ -1,3 +1,24 @@
+
+Splitting the code:
+
+- Global (Site Context)
+    - Goes in the bootstrapper file.
+- Page Context (Specific to current page)
+    - Layouts
+        - Stores general dimentions.
+    - Pages
+        - Homepage
+        - Tour
+        - Subscriptions
+        - Course Builder
+- Objects (General Purpose classes and ids) & Interaction States
+    - Shared
+        - Contents
+        - Headers
+
+
+
+
     /stylesheets/
       vendor/
         survival-kit/               # Has custom dir and partials.
@@ -24,11 +45,12 @@
           _show.scss                
           _new.scss                 
           _edit.scss                
-        layouts/                     # DISCUSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
-          _application.scss          # Default rails name.
-          _forums.scss
-        shared/                       
-          _headers.scss               
+        layouts/                     # Where all Layout information is stored.
+          _application.scss          # The base.
+          _forums.scss               # Layout for the forums.
+          _blog.scss                 # "Inhertis" application layout and modifies it.
+        shared/                      # Shared information would be stored here.
+          _headers.scss              # Header 
           _footers.scss               
           _contents.scss               
       mobile/                        # Type
