@@ -153,7 +153,7 @@ Previously /scripts/ - scripts was thought too general.
 
 ## Credits
 
-Original Paper and Idea by [Mario "Kuroir" Ricalde](http://kuroir.com). With the help of many people including:
+Original Paper and Idea by [Mario Ricalde](http://mario.ricalde.mx). With the help of many people including:
 
 - [David Heinemeier Hansson](http://www.loudthinking.com/)
 - [Paul Irish](http://paulirish.com/)
