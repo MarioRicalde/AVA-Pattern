@@ -34,7 +34,7 @@ You may think that there's a steep learning curve involved with the AVA Pattern 
 
 ### What do I get from the AVA Pattern, besides consistency?
 
-The main plus you'll get from the AVA Pattern is consitency. And, that alone is something that is worth your time. Consistency is not something you should only want to achieve when you're working on a team, but it's something you should aim for, for your own sake.
+The main plus you'll get from the AVA Pattern is consistency. And, that alone is something that is worth your time. Consistency is not something you should only want to achieve when you're working on a team, but it's something you should aim for, for your own sake.
 
 Think of the following use cases:
 
